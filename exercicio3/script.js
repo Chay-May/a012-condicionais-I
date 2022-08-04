@@ -1,4 +1,4 @@
-let nacio = prompt("Escreva aqui sua nacionalidade")  //= adicione o prompt aqui
+let nacio = prompt("Escreva aqui sua nacionalidade").toLowerCase()  //= adicione o prompt aqui
 
 
 if (nacio === "brasileira" || "brasileiro") {

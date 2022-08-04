@@ -10,14 +10,14 @@ if(idade >= 18) {
 }
 
 if (isMaiorIdade === true) {
-    alert ("Já tem idade de ter terminado o ensino médio")
+    alert ("Uhuul! Que tal pensar no próximo passo?")
 } else {
-    alert ("Ainda não terminou o ensino médio")
+    alert ("Não desista, você está quase lá!")
 }
 
 if (isCursandoOutraFaculdade === false) {
-    alert('A pessoa não está na faculdade')
+    alert('Ser universitário no Brasil não é fácil! Parabéns pelo esforço diário!')
 } else {
-    alert ('A pessoa está na faculdade')
+    alert ('Formação academica não é tudo, insista nos seus sonhos!')
 }
 
